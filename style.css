@@ -1,11 +1,11 @@
-body {
-    font-family: sans-serif;
-  }
-  
-  .text {
-    border: 2px dashed #2196F3;
-    padding: 15px;
-    margin: 20px;
-  }
-  
+.box {
+  width: 350px;
+  height: 220px;
+
+  border:  solid #36f436;
+  padding: 15px,10px,20px,10px;
+  margin: 2px;
+  background-color: #3bff3b;
+}
+
   
